@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rhoncus, neq
 
 Suspendisse sem sapien, commodo et lorem aliquet, consequat consectetur risus. Maecenas ac interdum purus. Vestibulum et massa nec mi consectetur facilisis ultrices vel elit. Morbi vehicula mi nunc, id ultricies dolor volutpat et. 
 
-![](docker.png) # + ![](django.png) 
+[](docker.png) [](django.png) 
 
 ## Instalation
 
