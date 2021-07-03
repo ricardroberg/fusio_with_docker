@@ -5,7 +5,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rhoncus, neq
 
 Suspendisse sem sapien, commodo et lorem aliquet, consequat consectetur risus. Maecenas ac interdum purus. Vestibulum et massa nec mi consectetur facilisis ultrices vel elit. Morbi vehicula mi nunc, id ultricies dolor volutpat et. 
 
-[](docker.png) [](django.png) 
+![](docker.png) 
+# +
+![](django.png) 
 
 ## Instalation
 
@@ -41,7 +43,7 @@ Applying a course exercise but with the latest version of each app used to lear 
 
 ## Meta
 
-Ricard Roberg - [@SeuTwitter](https://twitter.com/SeuTwitter) - seuemail@gmail.com
+Ricard Roberg - [@RicardRoberg](https://twitter.com/RicardRoberg) - ricardroberg@gmail.com
 
 Ddistributed under licence gpl. Veja [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) for more informations.
 
